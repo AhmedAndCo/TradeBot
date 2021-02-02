@@ -1,2 +1,2 @@
 # TradeBot
-A bot that sells syuff on the market written in java since I dont want to learn python just yet.
+A bot that sells stuff on the market written in java since I dont want to learn python just yet.
